@@ -1,3 +1,3 @@
 # Notas
 
-Componente que persiste eventos de domínio e publica de forma atómica (outbox), com reintentos e idempotência no consumidor.
+Protótipo que deduplica pedidos por chave em memória — estudo de desenho para APIs.
