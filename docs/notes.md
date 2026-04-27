@@ -1,3 +1,3 @@
 # Notas
 
-Protótipo que deduplica pedidos por chave em memória — estudo de desenho para APIs.
+Registo de chaves de idempotência com TTL, deduplicação de pedidos e contratos claros para clientes da API.
