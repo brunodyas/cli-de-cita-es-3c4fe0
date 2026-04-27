@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cli_de_cita_es_3c4fe0")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7700478bf81f1f80f898d9b9882f225ec65cd60e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f36532d5950a95d2bf379c6162890c6f50901f0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("cli_de_cita_es_3c4fe0")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cli_de_cita_es_3c4fe0")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
